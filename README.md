@@ -1,11 +1,5 @@
 # llama3-rag-chat-with-mysql-database
 
-## Description
-In this video tutorial I will show you how you can use streamlit, Ollama llama3 model and MySQL database to create a chatbot that can answer questions from the database.
-
-## Video Tutorial
-[Watch the video](https://www.youtube.com/watch?v=1Q1wv6J2Z1A)
-
 ## Installation
 1. Clone the repository
 2. Install the required libraries
